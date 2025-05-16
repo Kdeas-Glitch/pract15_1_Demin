@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Привет</string>
+    <string name="Otb">Наслаждайся отборочными.</string>
+    <string name="vnim">Будь Внимателен</string>
+    <string name="good">Делай хорошо</string>
+    <string name="reg">Ещё нет аккаунта? Зарегестрируйтесь!</string>
+
+</resources>
